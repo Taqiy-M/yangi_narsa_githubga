@@ -3,7 +3,6 @@
 # method overloading
 # operator overloading
 
-
 # def multi(a=None, b=None):
 #     if b == None and a != None:
 #         if a%2 == 0:
@@ -69,11 +68,6 @@ l = [a, b, c, d, e, f, g]
 l.sort()
 print(l)
 
-
-
-
-
-
 # > == greater than
 # < == less than
 # >=  === greater than or equal to
@@ -83,22 +77,5 @@ print(l)
 # print(a > "900")
 # a = Student("Ali", 2005, 9989999998888, "TATU")
 # a.salom()
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
